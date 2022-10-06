@@ -1,4 +1,6 @@
 
+This reposity is made as an experience sharing wall running on a blog engine.
+
 ## Getting Started
 
 First, run the development server:
