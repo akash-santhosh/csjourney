@@ -32,7 +32,7 @@ PRs to our repositories are always welcome and can be a quick way to get your fi
 - Include documentation in the repo on the necessary changes made.
 - Be accompanied by a complete Pull Request template (loaded automatically when a PR is created).
 
-Setup
+## Setup
 1. Fork the repository to your own Github account
 2. Clone the project to your machine
 3. Create a branch locally with a descriptive name
